@@ -1,0 +1,29 @@
+{
+  "name": "uniqueemails",
+  "version": "1.0.0",
+  "description": "Solution to the Unique Email Addresses problem from LeetCode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyGamiMarques/UniqueEmails.git"
+  },
+  "keywords": [
+    "Algorithms",
+    "LeetCode",
+    "Solution"
+  ],
+  "author": "Bradley Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleyGamiMarques/UniqueEmails/issues"
+  },
+  "homepage": "https://github.com/bradleyGamiMarques/UniqueEmails#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
